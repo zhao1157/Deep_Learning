@@ -4,3 +4,6 @@ This repository is to archive the code templates of different deep learning neur
 
 # Learning_TF
 Tensorflow is a low-level deep learning framework, and I learnt how to build some common neural networks in Tensorflow through course [Complete Guide to TensorFlow for Deep Learning with Python](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/).
+
+# Learning_Pytorch
+Pytorch is another low-level deep learning framework, which does computation through building dynamic graphs while Tensorflow is based on static graph. The techniques I learnt are from course [PyTorch for Deep Learning and Computer Vision](https://www.udemy.com/pytorch-for-deep-learning-and-computer-vision/).
